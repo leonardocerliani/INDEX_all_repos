@@ -1,5 +1,5 @@
 ## INDEX of all repositories 
-:atom: = code/data repository <br> :book: = report <br> :desktop_computer: = dashboard
+:atom: = code/data repository <br> :book: = report <br> :desktop_computer: = dashboard / web app
 
 ### Data Analytics
 
@@ -23,6 +23,14 @@ ROI (return on investment) and impact of different marketing campaigns on conver
 [:desktop_computer:](https://agronomous.shinyapps.io/spectramap/)
 <br>
 [Shiny](https://www.rstudio.com/products/shiny/) web app designed to explore the light spectrum reaching plants covered with different commercial greenhouse materials. Also provides daily light integral (DLI) for any location in the world.
+
+### Neuroimaging
+[**Dimensionality reduction dashboard**](https://github.com/leonardocerliani/neuroimaging_dimred)
+[:atom:](https://github.com/leonardocerliani/neuroimaging_dimred)
+[:book:](https://leonardoc.netlify.app/showcase/dimred_app/dimred_app)
+[:desktop_computer:](https://agronomous.shinyapps.io/neuroimaging_dimred/)
+<br>
+[Shiny](https://www.rstudio.com/products/shiny/) web app designed to interact with clustering solutions of data using different methods (MDS, UMAP, tSNE) and drill down the result to the level of the single datapoint.
 
 
 
