@@ -1,6 +1,6 @@
 ## INDEX of all repositories
 
-:atom: : code/data repository ---  :book: : report
+:atom: : code/data repository <br> :book: : report
 
 ### Data Analytics
 
