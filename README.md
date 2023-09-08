@@ -1,6 +1,4 @@
-## INDEX of all repositories
-
-:atom: = code/data repository <br> :book: = report <br> :desktop_computer: = dashboard
+## INDEX of all repositories :atom: = code/data repository <br> :book: = report <br> :desktop_computer: = dashboard
 
 ### Data Analytics
 
