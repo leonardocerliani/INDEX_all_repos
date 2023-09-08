@@ -26,13 +26,38 @@ ROI (return on investment) and impact of different marketing campaigns on conver
 <br>
 [Shiny](https://www.rstudio.com/products/shiny/) web app designed to explore the light spectrum reaching plants covered with different commercial greenhouse materials. Also provides daily light integral (DLI) for any location in the world.
 
+---
+
 ### Neuroimaging
 [**Dimensionality reduction dashboard**](https://github.com/leonardocerliani/neuroimaging_dimred)
 [:atom:](https://github.com/leonardocerliani/neuroimaging_dimred)
 [:book:](https://leonardoc.netlify.app/showcase/dimred_app/dimred_app)
 [:desktop_computer:](https://agronomous.shinyapps.io/neuroimaging_dimred/)
 <br>
-[Shiny](https://www.rstudio.com/products/shiny/) web app designed to interact with clustering solutions of data using different methods (MDS, UMAP, tSNE) and drill down the result to the level of the single datapoint.
+[Shiny](https://www.rstudio.com/products/shiny/) web app designed to demo how to interact with clustering solutions of data using different methods (MDS, UMAP, tSNE) and drill down the result to the level of the single datapoint.
 
+[**Sub-millimeter brain fMRI**](https://github.com/leonardocerliani/layerfMRI)
+[:atom:](https://github.com/leonardocerliani/layerfMRI)
+[:book:](https://www.sciencedirect.com/science/article/pii/S0010945222000016)
+<br>
+Code developed in bash, python, R for the analyses of sub-millimeter fMRI data on predictive coding.
 
+[**Cortico-subcortical ribbon atlas based on the Schaefer100**](https://github.com/leonardocerliani/Atlases-Neuroimaging/tree/master/Schaefer100_ribbon_subcort_tracto)
 
+[**ASD cortico-subcortical effective connectivity study**](https://github.com/luislorenzini/ASD_DCM_subcortex_sensory)
+[:atom:](https://github.com/luislorenzini/ASD_DCM_subcortex_sensory)
+[:book:](https://www.sciencedirect.com/science/article/pii/S2213158221002837?via%3Dihub)
+<br>
+Code developed for the analysis of subcortico-cortical interaction in Autism
+
+---
+
+### Other stuff
+[**Snippet Sanctuary**](https://github.com/leonardocerliani/snippets_sanctuary)
+[:atom:](https://github.com/leonardocerliani/snippets_sanctuary)
+<br>
+An idea about how to develop a personal repository for code snippets using Shiny.
+
+[**Three-way plot interaction**](https://github.com/leonardocerliani/interactive_plotly_DT_image)
+<br>
+Proof-of-concept about how to build a three-way interactive plot in Shiny inlcuding scatterplot, table and images associated with the table, so that acting on any of them changes what is displayed/filtered in the other two.
