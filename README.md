@@ -1,6 +1,8 @@
 ## INDEX of all repositories 
 :atom: = code/data repository <br> :book: = report <br> :desktop_computer: = dashboard / web app
 
+_NB: web apps are hosted on a free-tier server, therefore they take more time to load than on a dedicated server_
+
 ### Data Analytics
 
 [**Product Analysis**](https://leonardoc.netlify.app/showcase/product_analysis_psaraki/product_analysis) 
