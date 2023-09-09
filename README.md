@@ -29,7 +29,14 @@ Investigation on reducing freight ratio for an e-commerce website - shipping fee
 exploration: [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2/SalesPersonsPerformanceperUSTerritory),
 storyboard: [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2_Story/SomeKeyInsights)
 <br>
-Investigation of factors which can influence a salesperson's performance (e.g. experience, career, geographical distribution)
+Investigation of factors which influencing a salesperson's performance (e.g. experience, career, geographical distribution)
+
+[**Coronary Heart Disease Prediction**](https://github.com/leonardocerliani/TC_projects/tree/main/CHD_Logistic_regression)
+[:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/CHD_Logistic_regression)
+[:book:  + web app](#)
+<br>
+Logistic regression showing the predictive value of sex, age, blood pressure, glucose assumption and smoking on the 10-year risk of developing coronary heart disease (Framingham dataset).   
+
 
 ---
 
