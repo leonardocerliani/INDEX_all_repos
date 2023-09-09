@@ -1,4 +1,4 @@
-## INDEX of all repositories 
+## INDEX of repositories 
 :atom: = code/data repository <br> :book: = report <br> :desktop_computer: = dashboard / web app
 
 _NB: web apps are hosted on a free-tier server, therefore they take more time to load than on a dedicated server_
@@ -16,6 +16,19 @@ Analysis of time spent on the e-commerce website for purchasing and non-purchasi
 [:book:](https://leonardoc.netlify.app/showcase/marketing_analysis_psaraki/marketing_analysis)
 <br>
 ROI (return on investment) and impact of different marketing campaigns on conversion rates, session length, revenues for different days of the week in an e-commerce website
+
+
+[**Monetization Analysis**](https://github.com/leonardocerliani/TC_projects/tree/main/Monetization_Shipping_Fee_Analysis)
+[:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/Monetization_Shipping_Fee_Analysis)
+[:book:](#)
+<br>
+Investigation on reducing freight ratio for an e-commerce website - shipping fees being the #1 reason for cart abandonment.
+
+[**Salespersons' Performance Analysis**](https://github.com/leonardocerliani/TC_projects/tree/main/Bike_sales_dashboard)
+[:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/Bike_sales_dashboard) - 
+exploration [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2/SalesPersonsPerformanceperUSTerritory),
+storyboard [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2_Story/SomeKeyInsights)
+
 
 ---
 
