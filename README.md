@@ -26,9 +26,10 @@ Investigation on reducing freight ratio for an e-commerce website - shipping fee
 
 [**Salespersons' Performance Analysis**](https://github.com/leonardocerliani/TC_projects/tree/main/Bike_sales_dashboard)
 [:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/Bike_sales_dashboard) - 
-exploration [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2/SalesPersonsPerformanceperUSTerritory),
-storyboard [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2_Story/SomeKeyInsights)
-
+exploration : [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2/SalesPersonsPerformanceperUSTerritory),
+storyboard : [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2_Story/SomeKeyInsights)
+<br>
+Investigation of factors which can influence a salesperson's performance (e.g. experience, career, geographical distribution)
 
 ---
 
