@@ -1,3 +1,5 @@
+:warning: Some links are still not defined. Please come back in a few days :warning:
+
 ## INDEX of repositories 
 :atom: = code/data repository <br> :book: = report <br> :desktop_computer: = dashboard / web app
 
@@ -42,6 +44,16 @@ Logistic regression showing the predictive value of sex, age, blood pressure, gl
 [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/RFM_V3/MRF_dash_V3) (better viewed in full screen mode)
 <br>
 Dashboard to inspect Recency, Frequency and Monetization of individual or segment of customers.
+
+[**Cohort Retention and Churn**](https://github.com/leonardocerliani/TC_projects/tree/main/Cohort_Retention_Churn)
+[:book:](https://github.com/leonardocerliani/TC_projects/tree/main/Cohort_Retention_Churn)
+<br>
+Lightweight and clean SQL code to calculate retention number/rate using CTEs and window functions.
+
+[**A/B Testing and Funnels**](https://github.com/leonardocerliani/TC_projects/tree/main/AB_test_Marketing_Campaign_Funnels)
+[:book:](https://github.com/leonardocerliani/TC_projects/tree/main/AB_test_Marketing_Campaign_Funnels)
+<br>
+SQL extraction of data for funnnels referred to different Marketing campaigns and _post-hoc_ A/B testing
 
 ---
 
