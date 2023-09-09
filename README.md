@@ -1,7 +1,7 @@
 ## INDEX of repositories 
 :atom: = code/data repository <br> :book: = report <br> :desktop_computer: = dashboard / web app
 
-_NB: web apps are hosted on a free-tier server, therefore they take more time to load than on a dedicated server_
+_NB: web apps and dashboards are hosted on a free-tier web services, therefore they take more time to load than on a dedicated server_
 
 ### Data Analytics
 
@@ -37,6 +37,11 @@ Investigation of factors which influencing a salesperson's performance (e.g. exp
 <br>
 Logistic regression showing the predictive value of sex, age, blood pressure, glucose assumption and smoking on the 10-year risk of developing coronary heart disease (Framingham dataset).   
 
+[**Customer Segmentation**](https://github.com/leonardocerliani/TC_projects/tree/main/Customer_Segmentation_Dashboard)
+[:book:](https://github.com/leonardocerliani/TC_projects/tree/main/Customer_Segmentation_Dashboard)
+[:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/RFM_V3/MRF_dash_V3) (better viewed in full screen mode)
+<br>
+Dashboard to inspect Recency, Frequency and Monetization of individual or segment of customers.
 
 ---
 
