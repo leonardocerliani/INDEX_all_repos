@@ -22,7 +22,7 @@ ROI (return on investment) and impact of different marketing campaigns on conver
 
 [**Monetization Analysis**](https://github.com/leonardocerliani/TC_projects/tree/main/Monetization_Shipping_Fee_Analysis)
 [:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/Monetization_Shipping_Fee_Analysis)
-[:book:](#)
+[:book:](https://airy-camera-dce.notion.site/Analysis-of-shipping-fees-in-the-Olist-dataset-658f79ecb86e4dbaa7ec03d3c2fa3990)
 <br>
 Investigation on reducing freight ratio for an e-commerce website - shipping fees being the #1 reason for cart abandonment.
 
