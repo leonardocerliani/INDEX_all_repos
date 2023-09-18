@@ -50,11 +50,6 @@ Dashboard to inspect Recency, Frequency and Monetization of individual or segmen
 <br>
 Lightweight and clean SQL code to calculate retention number/rate using CTEs and window functions.
 
-[**A/B Testing and Funnels**](https://github.com/leonardocerliani/TC_projects/tree/main/AB_test_Marketing_Campaign_Funnels)
-[:book:](https://github.com/leonardocerliani/TC_projects/tree/main/AB_test_Marketing_Campaign_Funnels)
-<br>
-SQL extraction of data for funnnels referred to different Marketing campaigns and _post-hoc_ A/B testing
-
 ---
 
 ### Photobiology
