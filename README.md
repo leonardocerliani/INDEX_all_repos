@@ -46,7 +46,7 @@ Logistic regression showing the predictive value of sex, age, blood pressure, gl
 Dashboard to inspect Recency, Frequency and Monetization of individual or segment of customers.
 
 [**Cohort Retention and Churn**](https://github.com/leonardocerliani/TC_projects/tree/main/Cohort_Retention_Churn)
-[:book:](https://github.com/leonardocerliani/TC_projects/tree/main/Cohort_Retention_Churn)
+[:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/Cohort_Retention_Churn)
 <br>
 Lightweight and clean SQL code to calculate retention number/rate using CTEs and window functions.
 
