@@ -35,7 +35,7 @@ Investigation of factors which influencing a salesperson's performance (e.g. exp
 
 [**Coronary Heart Disease Prediction**](https://github.com/leonardocerliani/TC_projects/tree/main/CHD_Logistic_regression)
 [:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/CHD_Logistic_regression)
-[:book:  + web app](#)
+[:book:  + web app](https://leonardoc.netlify.app/showcase/framingham_chd_logistic_regression/graded_task_logistic_regression_v5)
 <br>
 Logistic regression showing the predictive value of sex, age, blood pressure, glucose assumption and smoking on the 10-year risk of developing coronary heart disease (Framingham dataset).   
 
