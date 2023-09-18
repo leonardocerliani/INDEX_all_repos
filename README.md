@@ -1,5 +1,3 @@
-:warning: Some links are still not defined. Please come back in a few days :warning:
-
 ## INDEX of repositories 
 :atom: = code/data repository <br> :book: = report <br> :desktop_computer: = dashboard / web app
 
