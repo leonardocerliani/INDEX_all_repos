@@ -26,17 +26,17 @@ ROI (return on investment) and impact of different marketing campaigns on conver
 Investigation on reducing freight ratio for an e-commerce website - shipping fees being the #1 reason for cart abandonment.
 
 [**Salespersons' Performance Analysis**](https://github.com/leonardocerliani/TC_projects/tree/main/Bike_sales_dashboard)
-[:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/Bike_sales_dashboard) - 
+[:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/Bike_sales_dashboard),
+[:arrow_forward:](https://github.com/leonardocerliani/TC_projects/blob/main/Bike_sales_dashboard/10min_presentation_Sales.pdf),
 exploration: [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2/SalesPersonsPerformanceperUSTerritory),
 storyboard: [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2_Story/SomeKeyInsights)
-[:arrow_forward:](https://github.com/leonardocerliani/TC_projects/blob/main/Bike_sales_dashboard/10min_presentation_Sales.pdf)
 <br>
 Investigation of factors which influencing a salesperson's performance (e.g. experience, career, geographical distribution)
 
 [**Coronary Heart Disease Prediction**](https://github.com/leonardocerliani/TC_projects/tree/main/CHD_Logistic_regression)
 [:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/CHD_Logistic_regression)
-[:book:  + web app](https://leonardoc.netlify.app/showcase/framingham_chd_logistic_regression/graded_task_logistic_regression_v5)
 [:arrow_forward:](https://github.com/leonardocerliani/TC_projects/blob/main/CHD_Logistic_regression/presentation_framingham.pdf)
+[:book:  + web app](https://leonardoc.netlify.app/showcase/framingham_chd_logistic_regression/graded_task_logistic_regression_v5)
 <br>
 Logistic regression showing the predictive value of sex, age, blood pressure, glucose assumption and smoking on the 10-year risk of developing coronary heart disease (Framingham dataset).   
 
