@@ -1,5 +1,5 @@
 ## INDEX of repositories 
-:atom: = code/data repository <br> :book: = report <br> :desktop_computer: = dashboard / web app
+:atom: = code/data repository <br> :book: = report <br> :desktop_computer: = dashboard / web app <br> :arrow_forward: = presentation slides
 
 _NB: web apps and dashboards are hosted on a free-tier web services, therefore they take more time to load than on a dedicated server_
 
@@ -21,6 +21,7 @@ ROI (return on investment) and impact of different marketing campaigns on conver
 [**Monetization Analysis**](https://github.com/leonardocerliani/TC_projects/tree/main/Monetization_Shipping_Fee_Analysis)
 [:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/Monetization_Shipping_Fee_Analysis)
 [:book:](https://airy-camera-dce.notion.site/Analysis-of-shipping-fees-in-the-Olist-dataset-658f79ecb86e4dbaa7ec03d3c2fa3990)
+[:arrow_forward:](https://github.com/leonardocerliani/TC_projects/blob/main/Monetization_Shipping_Fee_Analysis/olist_presentation.pdf)
 <br>
 Investigation on reducing freight ratio for an e-commerce website - shipping fees being the #1 reason for cart abandonment.
 
@@ -28,12 +29,14 @@ Investigation on reducing freight ratio for an e-commerce website - shipping fee
 [:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/Bike_sales_dashboard) - 
 exploration: [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2/SalesPersonsPerformanceperUSTerritory),
 storyboard: [:desktop_computer:](https://public.tableau.com/app/profile/leonardo.cerliani/viz/SP_Geo_v2_Story/SomeKeyInsights)
+[:arrow_forward:](https://github.com/leonardocerliani/TC_projects/blob/main/Bike_sales_dashboard/10min_presentation_Sales.pdf)
 <br>
 Investigation of factors which influencing a salesperson's performance (e.g. experience, career, geographical distribution)
 
 [**Coronary Heart Disease Prediction**](https://github.com/leonardocerliani/TC_projects/tree/main/CHD_Logistic_regression)
 [:atom:](https://github.com/leonardocerliani/TC_projects/tree/main/CHD_Logistic_regression)
 [:book:  + web app](https://leonardoc.netlify.app/showcase/framingham_chd_logistic_regression/graded_task_logistic_regression_v5)
+[:arrow_forward:](https://github.com/leonardocerliani/TC_projects/blob/main/CHD_Logistic_regression/presentation_framingham.pdf)
 <br>
 Logistic regression showing the predictive value of sex, age, blood pressure, glucose assumption and smoking on the 10-year risk of developing coronary heart disease (Framingham dataset).   
 
